@@ -7,7 +7,7 @@
 We are given 2 things:
 
 1. An obvious hint -> this challenge is about Linux file descriptors.
-1. Connectionto the challenge's machine -> `ssh fd@pwnable.kr -p222 (pw:guest)`
+1. Connection to the challenge's machine -> `ssh fd@pwnable.kr -p222 (pw:guest)`
 
 If we are not familiar with file descriptors, with a quick google search we can</br>
 understand that a file descriptor is a number we use to identify a file resource.
