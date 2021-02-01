@@ -21,7 +21,7 @@ After connecting to the server via ssh, let's see what we can do:
 
 We have a C source and a binary.
 
-#### Explaining the source
+#### Understanding the source
 
 Looking at the source file we have a program that recieves 1 command line argument.
 
